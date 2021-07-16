@@ -1,9 +1,9 @@
 ﻿using NUnit.Framework;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
-using OpenQA.Selenium.Support.UI;
+//using OpenQA.Selenium.Support.UI;
 
-namespace POC.Selenium.NUnit.Test
+namespace POC.Selenium.NUnit
 {
     [TestFixture]
     class TestCase1
